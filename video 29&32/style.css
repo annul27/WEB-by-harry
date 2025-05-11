@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.box {
+  border: 2px solid rgb(136, 136, 136);
+  border-radius: 10px;
+  width: 340px;
+  display: inline-block;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.car1,
+.car2 {
+  border: 1px solid grey;
+  border-radius: 10px;
+  margin-right: 8px;
+  font-size: small;
+  color: gray;
+}
+img {
+  display: block;
+  padding: 8px;
+  border-radius: 15px;
+}
+h2 {
+  padding: 20px;
+  padding-left: 8px;
+}
+p {
+  padding-left: 8px;
+  color: gray;
+}
+.car1 {
+  margin-left: 25px;
+}
+a{
+  border: 2px solid lightblue;
+  border-radius: 25px;
+  color: blue;
+  background-color: lightblue;
+  text-align: center;
+  width: 140px;
+  margin: 15px 0px 0px 105px;
+  text-decoration: none;
+}
