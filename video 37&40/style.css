@@ -1,0 +1,106 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    position: sticky;
+    top: 0;
+}
+nav{
+    border: 2px solid black;
+    background-color: #FF6363;
+}
+ul{
+    display: flex;
+}
+ul li{
+    list-style: none;
+}
+li{
+    margin-right: 200px;
+}
+#sbox{
+    margin-right: 0px;
+    padding: 7px 10px 10px 0px;
+}
+#cat{
+    margin-right: 0px;
+}
+a, li{
+    text-decoration: none;
+    color: #6d0a0a;
+    font-weight: 900;
+}
+#amazon{
+    font-size: 30px;
+    padding-top: 2%;
+}
+select{
+    background-color: #FF8282;
+    border: 1px solid black;
+    width: 52px;
+    height: 40px;
+}
+button{
+    background-image: url(Screenshot\ 2025-04-14\ 184942-Photoroom.jpg);
+    background-size: cover;
+    width: 45px;
+    height: 40px;
+}
+main{
+    background-color: #BEE4D0 ;
+    padding-bottom: 34px;
+    height: 1300px;
+}
+#container{
+background-color: #BEE4D0;
+border: 2px solid black;
+display: flex;
+flex-wrap: wrap;
+}
+.content1{
+    border: 2px solid black;
+    margin: 35px 50px 0px 79px;
+    width: 800px;
+    height: 556px;
+    background-image:url(dodge.jpg) ;
+    background-size: cover;
+}
+.content2{
+    border: 2px solid black;
+    margin: 35px 50px 0px 79px;
+    width: 800px;
+    height: 556px;
+    background-image: url(Screenshot\ 2025-03-21\ 161249.png);
+    background-size: cover;
+}
+
+.content3{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 50px 34vw;
+    font-size: 2em;
+    height: 80px;
+    background-color: #DBFFCB;
+    color: black;
+}
+#circle{
+    border: 2px solid black;
+    border-radius: 50%;
+    background-color: brown;
+    width: 120px;
+    height: 120px;
+    bottom: 120px;
+    margin-top: 830px;
+    margin-left: 1742px;
+    position: fixed;
+    background-image: url(Screenshot\ 2025-04-14\ 191743.png);
+    background-size: cover;
+}
+footer{
+    background-color: #FF6363;
+    color: #6d0a0a;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight:900;
+}

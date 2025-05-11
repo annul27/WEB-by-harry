@@ -1,0 +1,42 @@
+.navbar{
+    display: flex;
+    margin: 0 10px;
+    text-decoration: none;
+    color: #000;
+    justify-content: space-around;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.nav-links{
+    display: flex;
+    margin: 0 10px;
+    text-decoration: none;
+    color: #000;
+    align-items: center;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+ul li{
+    margin-right: 30px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.logo{
+    background-image: url(Screenshot\ 2025-04-16\ 123909.png);
+    background-size: cover; 
+    width:100px;
+}
+button{
+    background-image: url(Screenshot\ 2025-04-16\ 121743.png);
+    background-size: cover;
+    height: 30px;
+    width: 30px;
+} 
+.sticker{
+    background-image: url(Screenshot\ 2025-04-16\ 121244.png);
+    background-size: cover;
+    width: 30px;
+    height: 30px; 
+}
