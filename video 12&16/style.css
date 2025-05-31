@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #210F37;
+}
+video{
+    width: 314px;
+}
+h1{
+    text-align: center;
+    background-color: #210F37;
+    color:#DCA06D;
+    border: 2px solid black;
+}
+h2{
+    text-align: center;
+    background-color: #4F1C51;
+    color: #A55B4B;
+    border: 2px solid black;
+}
+audio{
+    margin-right: 200px;
+}
+#player{
+    font-size: 160px;
+    background-color: #410445;
+    color: #F6DC43;
+    border: 2px solid black;
+}
